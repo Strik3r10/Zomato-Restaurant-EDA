@@ -116,7 +116,7 @@ The project leverages Python’s data analysis ecosystem to provide **actionable
 <img src="images/rating_distribution.png" alt="Rating Distribution" width="1000">
 
 ### 💸 Price Range vs Rating
-![Price Range vs Rating]([https://github.com/Strik3r10/Zomato-EDA/blob/main/images/rating_vs_price.png?raw=true](https://github.com/Strik3r10/Zomato-Restaurant-EDA/blob/main/Images/pr_rating.png))
+<img src="images/pr_rating.png" alt="Rating Distribution" width="1000">
 
 ### 🧾 City vs Price Range
 <img src="images/city_pr.png" alt="City vs Price Range" width="1000">
@@ -124,6 +124,7 @@ The project leverages Python’s data analysis ecosystem to provide **actionable
 ### 🧾 Country vs Price Range
 <img src="images/country_pr.png" alt="Country vs Price Range" width="1000">
 
+---
 
 ## 🔍 Key Findings & Insights
 
