@@ -104,25 +104,25 @@ The project leverages Python’s data analysis ecosystem to provide **actionable
 
 
 ### 🍜 Top Cuisines
-<img src="/images/top_cuisines.png" alt="Top Cuisines" width="1000">
+<img src="/Images/top_cuisines.png" alt="Top Cuisines" width="1000">
 
 ### 🌍 Country Distribution
-<img src="/images/country_distribution.png" alt="Country Distribution" width="1000">
+<img src="/Images/country_distribution.png" alt="Country Distribution" width="1000">
 
 ### 🌍 City Distribution
-<img src="/images/city_distribution.png" alt="City Distribution" width="1000">
+<img src="/Images/city_distribution.png" alt="City Distribution" width="1000">
 
 ### ⭐ Rating Distribution
-<img src="/images/rating_distribution.png" alt="Rating Distribution" width="1000">
+<img src="/Images/rating_distribution.png" alt="Rating Distribution" width="1000">
 
 ### 💸 Price Range vs Rating
-<img src="/images/pr_rating.png" alt="Rating Distribution" width="1000">
+<img src="/Images/pr_rating.png" alt="Rating Distribution" width="1000">
 
 ### 🧾 City vs Price Range
-<img src="/images/city_pr.png" alt="City vs Price Range" width="1000">
+<img src="/Images/city_pr.png" alt="City vs Price Range" width="1000">
 
 ### 🧾 Country vs Price Range
-<img src="/images/country_pr.png" alt="Country vs Price Range" width="1000">
+<img src="/Images/country_pr.png" alt="Country vs Price Range" width="1000">
 
 ---
 
