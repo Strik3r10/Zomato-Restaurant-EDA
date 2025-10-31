@@ -151,13 +151,10 @@ The project leverages Python’s data analysis ecosystem to provide **actionable
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/Zomato-Restaurant-EDA.git
+git clone https://github.com/Strik3r10/Zomato-Restaurant-EDA.git
 
 # Navigate to the project directory
 cd Zomato-Restaurant-EDA
-
-# Install dependencies
-pip install -r requirements.txt
 
 # Launch Jupyter Notebook
 jupyter notebook "Exploratory Data Analysis of Zomato Restaurants Dataset.ipynb"
